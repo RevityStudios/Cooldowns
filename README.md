@@ -1,5 +1,5 @@
 # Cooldowns
-Standalone library used to apply cooldowns to UUIDs. This library is intended to allow for creating cooldowns for game environments a lot more practical and easier by not having to do math or create a Map for every new cooldown.
+Standalone library used to apply cooldowns to UUIDs. This library is intended to allow for creating cooldowns on game environments a lot more practical and easier by not having to do math or create a Map for every new cooldown.
 
 # Download
 To setup Cooldown usage with maven, put the following in your pom.xml
